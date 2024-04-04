@@ -29,7 +29,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Realist</h3>
+<h3 align="center"></h3>
 
   <p align="center">
     <br />
@@ -99,11 +99,11 @@ This is an example of how to list things you need to use the software and how to
     Open two terminals and change directories into the following directories
 
     ```sh
-        cd ../realist/client
+        cd ../AkhtarsList/client
     ```
 
     ```sh
-        cd ../realist/server
+        cd ../AkhtarsList/server
     ```
 
 -   npm
@@ -119,7 +119,7 @@ _This project relies on external services such as MongoDB, JWT, Cloudinary._
 1. Clone the repo
 
     ```sh
-    git clone https://github.com/kankenny/realist.git
+    git clone https://github.com/kankenny/AkhtarsList.git
     ```
 
 2. Create two `.env` files in the `client` and `server` directory. Env file examples are placed within the client and server directories for reference.
