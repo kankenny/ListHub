@@ -27,6 +27,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+[![AkhtarsList Screenshot][product-logo]](https://github.com/rintendou/AkhtarsList)
 <div align="center">
 
 <h3 align="center"></h3>
@@ -99,11 +100,11 @@ This is an example of how to list things you need to use the software and how to
     Open two terminals and change directories into the following directories
 
     ```sh
-        cd ../AkhtarsList/client
+        cd ../Realist/client
     ```
 
     ```sh
-        cd ../AkhtarsList/server
+        cd ../Realist/server
     ```
 
 -   npm
@@ -119,7 +120,7 @@ _This project relies on external services such as MongoDB, JWT, Cloudinary._
 1. Clone the repo
 
     ```sh
-    git clone https://github.com/kankenny/AkhtarsList.git
+    git clone https://github.com/kankenny/Realist.git
     ```
 
 2. Create two `.env` files in the `client` and `server` directory. Env file examples are placed within the client and server directories for reference.
@@ -203,6 +204,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-shield]: https://img.shields.io/github/license/rintendou/AkhtarsList.svg?style=for-the-badge
 [license-url]: https://github.com/rintendou/AkhtarsList/LICENSE.txt
 [product-screenshot]: images/front-page.jpg
+[product-logo]: images/logo.jpg
 [TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org/
 [MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
